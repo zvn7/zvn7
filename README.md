@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
 <br clear="both">
 
 <div align="center">
@@ -52,7 +49,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Tools</h2>
 
 ###
 
@@ -97,6 +94,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/zvn7/zvn7/output/snake.svg" alt="Snake animation" />
+
+###
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###
 
