@@ -16,7 +16,7 @@ jobs:
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.waka_8f171f9f-27e7-46da-a6d0-8359753eb013 }} # required
+          WAKATIME_API_KEY: ${{ waka_8f171f9f-27e7-46da-a6d0-8359753eb013 }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: zvn7 # optional
