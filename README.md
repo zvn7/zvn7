@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h1 align="center">Hi 👋, I'm Ilham Maulana</h1>
 <h3 align="center">A passionate frontend developer and web developer from Indonesia</h3>
 
