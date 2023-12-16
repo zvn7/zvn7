@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+[![Waka Readme](https://github.com/zvn7/zvn7/actions/workflows/main.yml/badge.svg)](https://github.com/zvn7/zvn7/actions/workflows/main.yml)
 <!--START_SECTION:waka-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zvn7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--END_SECTION:waka-->
