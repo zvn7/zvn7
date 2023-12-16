@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/zvn7/count.svg?"  />
 </div>
@@ -22,29 +20,25 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since ...<br>- 📚 I'm currently learning ...<br>- 🎯 Goals: ...<br>- 🎲 Fun fact: ...<br>- 👀 I’m interested in Web Design and Frontend Developer<br>- 📫 How to reach me you can follow me on</p>
+<p align="left">
+  - ✨ Creating bugs since 2021<br>
+  - 📚 I’m currently learning **React JS, React Native**<br>
+  - 🎯 Goals: Frontend & Web Developer<br>
+  - 👀 I’m interested in Web Design and Frontend Developer<br>
+  - 📝 I regularly write articles on [createdzvn.blogspot.com](https://createdzvn.blogspot.com/)
+  - 📫 How to reach me you can follow me on</p>
 
 ###
 
 <h2 align="left">Sosial Media</h2>
 
 ###
-
-<br clear="both">
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/ilham-maul/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/ilhammaul7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/antaresstar7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@aammaul7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
+  <a href="https://twitter.com/antaresstar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antaresstar7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ilham-maul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilham-maul/" height="30" width="40" /></a>
+<a href="https://instagram.com/ilhammaul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilhammaul7" height="30" width="40" /></a>
+<a href="https://medium.com/@aammaul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aammaul7" height="30" width="40" /></a>
+  
 </div>
 
 ###
@@ -83,8 +77,8 @@
 
 ###
 
-<br clear="both">
-
+###
+<h2 align="left">My Github Stats</h2>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=zvn7&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=zvn7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
@@ -101,8 +95,7 @@
 <!--END_SECTION:waka-->
 
 ###
-
-<br clear="both">
+<h2 align="left">My Music History</h2>
 
 <div align="left">
   <a href="https://open.spotify.com/user/szkdgrdak2i2ylftujvzg893j">
@@ -111,7 +104,7 @@
 </div>
 
 ###
-
+<h2 align="left">My Medium Post **Coming Soon**</h2>
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@aammaul7&theme=react" alt="Layout with last medium posts"  />
 </div>
