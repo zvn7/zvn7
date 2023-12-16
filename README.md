@@ -37,6 +37,6 @@ Terima kasih telah mengunjungi profil GitHub saya!
 
 [![Waka Readme](https://github.com/zvn7/zvn7/actions/workflows/main.yml/badge.svg)](https://github.com/zvn7/zvn7/actions/workflows/main.yml)
 ## My Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zvn7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
