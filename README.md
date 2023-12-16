@@ -1,5 +1,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+<!--START_SECTION:waka-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zvn7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!--END_SECTION:waka-->
+
 - 👋 Hi, I’m @zvn7 - Ilham Maulana
 - 👀 I’m interested in Web Design and Frontend Developer
 - 🌱 I’m currently learning Javascript ❤️
