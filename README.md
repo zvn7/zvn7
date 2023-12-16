@@ -22,7 +22,7 @@
 
 <p align="left">
   - ✨ Creating bugs since 2021<br>
-  - 📚 I’m currently learning **React JS, React Native**<br>
+  - 📚 I’m currently learning <span style="color:red;">React JS, React Native</span><br>
   - 🎯 Goals: Frontend & Web Developer<br>
   - 👀 I’m interested in Web Design and Frontend Developer<br>
   - 📝 I regularly write articles on [createdzvn.blogspot.com](https://createdzvn.blogspot.com/)
@@ -104,7 +104,7 @@
 </div>
 
 ###
-<h2 align="left">My Medium Post **Coming Soon**</h2>
+<h2 align="left">My Medium Post <span style="color:red;">( Coming Soon )</span></h2>
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@aammaul7&theme=react" alt="Layout with last medium posts"  />
 </div>
