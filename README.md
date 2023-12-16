@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+  <img src="https://github.com/zvn7/zvn7/blob/master/images/codeStats.svg" alt="My coding"/>
+  
 <h1 align="center">Hi 👋, I'm Ilham Maulana</h1>
 <h3 align="center">A passionate frontend developer and web developer from Indonesia</h3>
 
