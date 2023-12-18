@@ -110,16 +110,16 @@ Other      2 mins          █▒░░░░░░░░░░░░░░░�
 ###
 <h2 align="left">My Music History</h2>
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://open.spotify.com/user/szkdgrdak2i2ylftujvzg893j">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=szkdgrdak2i2ylftujvzg893j&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
-<h2 align="left">My Medium Post <span style="color:red;">( Coming Soon )</span></h2>
+<!-- <h2 align="left">My Medium Post <span style="color:red;">( Coming Soon )</span></h2>
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@aammaul7&theme=react" alt="Layout with last medium posts"  />
-</div>
+</div> -->
 
 ###
