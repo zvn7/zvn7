@@ -108,9 +108,9 @@ Other      2 mins          █▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ###
-<h2 align="left">My Music History</h2>
+<!--<h2 align="left">My Music History</h2>
 
-<!-- <div align="left">
+ <div align="left">
   <a href="https://open.spotify.com/user/szkdgrdak2i2ylftujvzg893j">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=szkdgrdak2i2ylftujvzg893j&count=5&unique=false" alt="Spotify recently played"  />
   </a>
