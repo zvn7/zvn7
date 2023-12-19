@@ -93,10 +93,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zvn7/zvn7/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--START_SECTION:waka-->
 
 ```rust
@@ -112,6 +108,12 @@ Other        3 mins          -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
+
+###
+
+<img src="https://raw.githubusercontent.com/zvn7/zvn7/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 <!--<h2 align="left">My Music History</h2>
