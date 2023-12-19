@@ -99,12 +99,16 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript   4 hrs 53 mins   ████████████████████░░░░░   80.26 %
-Markdown     30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Text         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-TSConfig     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+```rust
+From: 15 December 2023 - To: 18 December 2023
+
+Total Time: 6 hrs 1 min
+
+JavaScript   4 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>-----   80.26 %
+Markdown     30 mins         >>-----------------------   08.37 %
+Text         17 mins         >------------------------   04.82 %
+TSConfig     8 mins          >------------------------   02.45 %
+Other        3 mins          -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
