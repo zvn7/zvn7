@@ -102,7 +102,7 @@
 ```rust
 From: 15 December 2023 - To: 18 December 2023
 
-Total Time: 6 hrs 1 min
+Total Time: 6 hrs 5 mins
 
 JavaScript   4 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>-----   80.26 %
 Markdown     30 mins         >>-----------------------   08.37 %
