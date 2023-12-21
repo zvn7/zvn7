@@ -96,16 +96,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 December 2023 - To: 19 December 2023
+From: 15 December 2023 - To: 20 December 2023
 
-Total Time: 11 hrs 20 mins
+Total Time: 15 hrs 46 mins
 
-JavaScript   9 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>-----   81.95 %
-Markdown     32 mins         >------------------------   04.70 %
-Text         26 mins         >------------------------   03.96 %
-C#           13 mins         >------------------------   02.02 %
-TSConfig     8 mins          -------------------------   01.31 %
-Other        4 mins          -------------------------   00.60 %
+JavaScript   11 hrs 42 mins  >>>>>>>>>>>>>>>>>>>------   74.21 %
+C#           49 mins         >------------------------   05.26 %
+HTML         45 mins         >------------------------   04.83 %
+Groovy       32 mins         >------------------------   03.42 %
+Markdown     32 mins         >------------------------   03.38 %
+Text         26 mins         >------------------------   02.85 %
+TSConfig     8 mins          -------------------------   00.94 %
+Other        4 mins          -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
