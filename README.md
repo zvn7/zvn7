@@ -129,9 +129,9 @@ Bash             11 mins         -------------------------   00.42 %
 </div> -->
 
 ###
-<!-- <h2 align="left">My Medium Post <span style="color:red;">( Coming Soon )</span></h2>
+<h2 align="left">My Medium Post</h2>
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@aammaul7&theme=react" alt="Layout with last medium posts"  />
-</div> -->
+</div>
 
 ###
