@@ -42,13 +42,6 @@
 
 ###
 
-## Proyek Terbaru
-
-- [Todo Apps](https://zvn7.github.io/todoapps/): 
-- [Portfolio UT School Project](https://zvn7.github.io/portfolio-utschool/): Proyek ini adalah halaman portfolio saya yang dibuat menggunakan template [Soft UI By Creative Team](https://www.creative-tim.com/product/soft-ui-design-system).
-- [Astraotoparts UT School Project](https://erizaanjelika.github.io/D9_Tugas_Kelompok2/): Proyek ini merupakan proyek gabungan dengan teman - teman saya (Siswa UT School IT Programmer Batch 5).
-- [Login Page](https://zvn7.github.io/login-page/): Proyek ini adalah halaman login yang dibuat menggunakan html, css dan javascript.
-
 <h2 align="left">My Tools</h2>
 
 ###
