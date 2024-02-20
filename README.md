@@ -21,7 +21,7 @@
 ###
 
   - ✨ Creating bugs since 2021<br>
-  - 🌱 I’m currently learning **React JS, React Native**<br>
+  - 🌱 I’m currently learning **React JS, .Net Core**<br>
   - 🎯 Goals: Frontend & Web Developer<br>
   - 👀 I’m interested in Web Design and Frontend Developer<br>
   - 📝 I regularly write articles on [createdzvn.blogspot.com](https://createdzvn.blogspot.com/) <br>
