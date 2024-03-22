@@ -89,15 +89,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 December 2023 - To: 19 March 2024
+From: 15 December 2023 - To: 20 March 2024
 
-Total Time: 198 hrs
+Total Time: 198 hrs 9 mins
 
-JavaScript       63 hrs 35 mins  >>>>>>>>-----------------   32.11 %
-TypeScript       55 hrs 55 mins  >>>>>>>------------------   28.24 %
-Blade Template   25 hrs 5 mins   >>>----------------------   12.67 %
-PHP              17 hrs 50 mins  >>-----------------------   09.01 %
-C#               14 hrs 47 mins  >>-----------------------   07.47 %
+JavaScript       63 hrs 35 mins  >>>>>>>>-----------------   32.09 %
+TypeScript       56 hrs 4 mins   >>>>>>>------------------   28.30 %
+Blade Template   25 hrs 5 mins   >>>----------------------   12.66 %
+PHP              17 hrs 50 mins  >>-----------------------   09.00 %
+C#               14 hrs 47 mins  >>-----------------------   07.46 %
 HTML             6 hrs 20 mins   >------------------------   03.20 %
 CSS              2 hrs 9 mins    -------------------------   01.09 %
 XML              1 hr 11 mins    -------------------------   00.60 %
