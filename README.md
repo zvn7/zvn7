@@ -86,6 +86,8 @@
 
 ###
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zvn7" alt="zvn7" /></a> </p>
+
 <!--START_SECTION:waka-->
 
 ```rust
