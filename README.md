@@ -24,7 +24,7 @@
   - 🌱 I’m currently learning **Golang, Docker and Kubernetes**<br>
   - 🎯 Goals: Frontend & Web Developer<br>
   - 👀 I’m interested in Web Design and Frontend Developer<br>
-  - 📝 I regularly write articles on [createdzvn.blogspot.com](https://createdzvn.blogspot.com/) <br>
+  - 📝 I regularly write articles on [createdzvn.blogspot.com](https://createdaam.blogspot.com/) <br>
   - 📫 How to reach me you can follow me on
 
 ###
